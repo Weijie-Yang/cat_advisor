@@ -58,6 +58,9 @@ The associated Chain-of-Thought (CoT) dataset is publicly available on Hugging F
 
 
 ## Acknowledgments
+This work uses data or services provided by the Materials Project, a project of the U.S. Department of Energy Basic Energy Sciences Program.
+If you use data from the Materials Project, please cite:
+A. Jain, S.P. Ong, G. Hautier, W. Chen, W.D. Richards, S. Dacek, S. Cholia, D. Gunter, D. Skinner, G. Ceder, and K.A. Persson, "The Materials Project: A materials genome approach to accelerating materials innovation", APL Materials 1, 011002 (2013). DOI: 10.1063/1.4812323
 - [Nougat](https://github.com/facebookresearch/nougat)
 - [unsloth](https://github.com/unslothai/unsloth)
 - [ollama](https://github.com/ollama/ollama)
