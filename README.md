@@ -1,6 +1,6 @@
 # LLM-Driven Machine Learning Framework for Catalyst Design of MgH<sub>2</sub> Dehydrogenation
 
-![Fig1](./Fig1.png)
+<img src="./Fig1.png" width="400"/>
 
 An AI-driven framework for accelerating the discovery of high-performance MgH2 dehydrogenation catalysts, by combining Large Language Models (LLMs like GPT-4o and a fine-tuned DeepSeek variant) with Machine Learning (ML) algorithms, is presented. It efficiently extracts MgH2 catalyst experimental data from extensive literature and provides specialized, actionable recommendations for catalyst design via its multi-agent component, Cat-Advisor.
 
