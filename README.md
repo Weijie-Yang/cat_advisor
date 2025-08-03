@@ -1,4 +1,4 @@
-# LLM-Driven Machine Learning Framework for Catalyst Design of MgH<sub>2</sub> Dehydrogenation
+# Cat-Advisor: An Agent-Based Framework Integrating LLMs and Machine Learning for Catalyst Discovery in MgH<sub>2</sub> Dehydrogenation
 
 <img src="https://github.com/Weijie-Yang/cat_advisor/blob/main/Fig1.jpg" alt="Fig1" width="1000"/>
 An AI-driven framework for accelerating the discovery of high-performance MgH<sub>2</sub> dehydrogenation catalysts, by combining Large Language Models (LLMs like GPT-4o and a fine-tuned DeepSeek variant) with Machine Learning (ML) algorithms, is presented. It efficiently extracts MgH<sub>2</sub> catalyst experimental data from extensive literature and provides specialized, actionable recommendations for catalyst design via its multi-agent component, Cat-Advisor.
@@ -64,3 +64,4 @@ A. Jain, S.P. Ong, G. Hautier, W. Chen, W.D. Richards, S. Dacek, S. Cholia, D. G
 - [unsloth](https://github.com/unslothai/unsloth)
 - [ollama](https://github.com/ollama/ollama)
 - [one-api](https://github.com/songquanpeng/one-api)
+
